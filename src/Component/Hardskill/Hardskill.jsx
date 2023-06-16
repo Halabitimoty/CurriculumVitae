@@ -4,6 +4,7 @@ import "./Hardskill.css";
 function Hardskill() {
   return (
     <div className="tech-skills">
+      <h2>TECHNICAL SKILLS</h2>
       <ul>
         <li>Html & Css</li>
         <li>ReactJS</li>

@@ -4,8 +4,11 @@ import "./Language.css";
 function Language() {
   return (
     <div className="language">
-      <p>English</p>
-      <p>Yoruba</p>
+      <h2>LANGUAGES</h2>
+      <ul>
+        <li>English</li>
+        <li>Yoruba</li>
+      </ul>
     </div>
   );
 }

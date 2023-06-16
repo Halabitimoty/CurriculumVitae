@@ -1,4 +1,5 @@
 import React from "react";
+import "./Nav.css";
 import Contact from "../Contact/Contact";
 import Education from "../Education/Education";
 import Hardskill from "../Hardskill/Hardskill";

@@ -1,0 +1,19 @@
+nav {
+	display: flex;
+	flex-flow: column nowrap;
+	padding: 40px 40px;
+	background-color: #202A44;
+	color: white;
+}
+
+nav .hero {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 2px solid black;
+	margin: auto;
+}
+
+.dark-mode {
+	background-color: black;
+}

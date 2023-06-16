@@ -1,0 +1,16 @@
+.contact {
+	padding: 20px 0;
+}
+
+.contact>h2 {
+	padding: 15px 0;
+	border-bottom: 2px solid white;
+}
+
+.contact>p {
+	padding: 5px;
+}
+
+.contact>p>span {
+	padding-left: 10px;
+}

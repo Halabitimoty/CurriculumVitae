@@ -4,12 +4,19 @@ import "./Resume.css";
 function Resume() {
   return (
     <div className="resume">
+      <div className="toggler">
+        <p className="toggler--light">Light</p>
+        <div className="toggler--slider" onClick="">
+          <div className="toggler--slider--circle"></div>
+        </div>
+        <p className="toggler--dark">Dark</p>
+      </div>
       <div className="name">
         <h1>Alabi Timothy O.</h1>
         <p>Software Developer</p>
       </div>
       <div className="summary">
-        <h1>PROFESSIONAL SUMMARY</h1>
+        <h3>PROFESSIONAL SUMMARY</h3>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,
           voluptate exercitationem recusandae ullam voluptates quas, totam
@@ -18,7 +25,7 @@ function Resume() {
         </p>
       </div>
       <div className="experience">
-        <h1>Work Experience</h1>
+        <h3>Work Experience</h3>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse optio
           facilis vitae officia, ullam itaque obcaecati, maxime eos ipsam
@@ -27,7 +34,7 @@ function Resume() {
         </p>
       </div>
       <div className="projects">
-        <h1>Notable Projects</h1>
+        <h3>Notable Projects</h3>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro
           labore, doloribus saepe exercitationem architecto earum corrupti

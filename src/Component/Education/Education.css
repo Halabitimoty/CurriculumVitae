@@ -1,0 +1,12 @@
+.education {
+	padding: 20px 0;
+}
+
+.education>h2 {
+	padding: 15px 0;
+	border-bottom: 2px solid white;
+}
+
+.education>p {
+	padding-top: 20px;
+}

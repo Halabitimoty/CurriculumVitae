@@ -1,0 +1,12 @@
+.tech-skills {
+	padding: 20px 0;
+}
+
+.tech-skills>h2 {
+	padding: 15px 0;
+	border-bottom: 2px solid white;
+}
+
+.tech-skills>ul {
+	padding-top: 20px;
+}
