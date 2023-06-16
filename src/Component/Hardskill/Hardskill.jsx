@@ -1,4 +1,5 @@
 import React from "react";
+import "./Hardskill.css";
 
 function Hardskill() {
   return (

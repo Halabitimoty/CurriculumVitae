@@ -1,4 +1,5 @@
 import React from "react";
+import "./Language.css";
 
 function Language() {
   return (
