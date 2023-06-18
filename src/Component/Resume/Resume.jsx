@@ -1,12 +1,12 @@
 import React from "react";
 import "./Resume.css";
 
-function Resume() {
+function Resume(props) {
   return (
     <div className="resume">
       <div className="toggler">
         <p className="toggler--light">Light</p>
-        <div className="toggler--slider" onClick="">
+        <div className="toggler--slider" onClick={props.toggleDarkMode}>
           <div className="toggler--slider--circle"></div>
         </div>
         <p className="toggler--dark">Dark</p>
