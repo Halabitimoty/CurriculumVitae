@@ -10,3 +10,5 @@
 .soft-skills>ul {
 	padding-top: 20px;
 }
+
+@media only screen and (max-width: 600px) {}

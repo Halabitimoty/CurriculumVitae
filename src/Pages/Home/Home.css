@@ -15,3 +15,19 @@ main .nav {
 main .resume {
 	width: 100%;
 }
+
+@media only screen and (max-width: 600px) {
+
+	main {
+		display: flex;
+		flex-direction: column;
+	}
+
+	main .nav {
+		width: 100vw;
+	}
+
+	main .resume {
+		width: 100vw;
+	}
+}
