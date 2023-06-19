@@ -29,5 +29,6 @@ main .resume {
 
 	main .resume {
 		width: 100vw;
+		padding: 0;
 	}
 }
