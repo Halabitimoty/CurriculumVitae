@@ -12,23 +12,43 @@ function Contact() {
 
       <p>
         <i class="fa fa-envelope" aria-hidden="true"></i>
-        <span>Halabitimothy@yahoo.com</span>
+        <a href="mailto:Halabitimothy@yahoo.com">Halabitimothy@yahoo.com</a>
       </p>
       <p>
         <i class="fa fa-twitter" aria-hidden="true"></i>
-        <span>Halabitimoty</span>
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://twitter.com/halabitimoty"
+        >
+          Halabitimoty
+        </a>
       </p>
       <p>
         <i class="fa fa-linkedin-square" aria-hidden="true"></i>
-        <span>Halabitimoty</span>
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://www.linkedin.com/in/halabitimoty"
+        >
+          Halabitimoty
+        </a>
       </p>
       <p>
         <i class="fa fa-globe" aria-hidden="true"></i>
-        <span>Coming soon...</span>
+        <a target="_blank" rel="noreferrer" href="He">
+          Coming soon...
+        </a>
       </p>
       <p>
         <i class="fa fa-github" aria-hidden="true"></i>
-        <span>Halabitimoty</span>
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://github.com/Halabitimoty"
+        >
+          Halabitimoty
+        </a>
       </p>
     </div>
   );

@@ -5,6 +5,7 @@
 .contact>h2 {
 	padding: 15px 0;
 	border-bottom: 2px solid white;
+	margin-bottom: 15px;
 }
 
 .contact>p {
@@ -13,4 +14,11 @@
 
 .contact>p>span {
 	padding-left: 10px;
+}
+
+.contact>p>a {
+	padding-left: 10px;
+	color: white;
+	cursor: pointer;
+	text-decoration: none;
 }
