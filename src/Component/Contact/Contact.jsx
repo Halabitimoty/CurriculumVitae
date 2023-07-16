@@ -36,7 +36,11 @@ function Contact() {
       </p>
       <p>
         <i class="fa fa-globe" aria-hidden="true"></i>
-        <a target="https://halabitimoty.netlify.app" rel="noreferrer" href="He">
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href="https://halabitimoty.netlify.app"
+        >
           website
         </a>
       </p>
