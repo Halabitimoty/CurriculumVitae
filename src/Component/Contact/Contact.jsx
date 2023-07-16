@@ -36,8 +36,8 @@ function Contact() {
       </p>
       <p>
         <i class="fa fa-globe" aria-hidden="true"></i>
-        <a target="_blank" rel="noreferrer" href="He">
-          Coming soon...
+        <a target="https://halabitimoty.netlify.app" rel="noreferrer" href="He">
+          website
         </a>
       </p>
       <p>
