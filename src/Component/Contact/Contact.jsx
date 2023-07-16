@@ -12,7 +12,7 @@ function Contact() {
 
       <p>
         <i class="fa fa-envelope" aria-hidden="true"></i>
-        <a href="mailto:Halabitimothy@yahoo.com">Halabitimothy@yahoo.com</a>
+        <a href="mailto:Halabitimoty@yahoo.com">Halabitimoty@yahoo.com</a>
       </p>
       <p>
         <i class="fa fa-twitter" aria-hidden="true"></i>
